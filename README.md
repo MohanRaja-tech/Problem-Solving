@@ -40,7 +40,7 @@ Stay Updated 🔄
 New problems and solutions will be added regularly as I continue to practice and refine my problem-solving skills. Stay tuned for updates and improvements to existing solutions.
 
 Links 💻
-LeetCode Profile: https://leetcode.com/u/mohan_2k6/
+LeetCode Profile: https://leetcode.com/u/Mohan-06/
 
 Contact 📞
 LinkedIn: www.linkedin.com/in/mohanraja-tech
