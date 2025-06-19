@@ -1,0 +1,23 @@
+class Solution {
+    public String thousandSeparator(int n) {
+        String temp  = Integer.toString(n);
+        StringBuilder sb = new StringBuilder();
+        char[] arr  = temp.toCharArray();
+        if(temp.length() <= 3){
+            return temp;
+        }
+        int count = 0;
+        for(int i=arr.length-1;i>=0;i--){
+            count++;
+            if(count == 3 && i != 0){
+                sb.append(arr[i]);
+                sb.append(".");
+                count = 0;
+            }
+            else{
+                sb.append(arr[i]);
+            }
+        }
+        return sb.reverse().toString();
+    }
+}
