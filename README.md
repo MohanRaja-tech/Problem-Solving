@@ -50,6 +50,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
@@ -59,6 +60,11 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
