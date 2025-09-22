@@ -55,6 +55,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
 |  |
 | ------- |
