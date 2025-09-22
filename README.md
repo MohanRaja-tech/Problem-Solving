@@ -56,6 +56,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0238-product-of-array-except-self](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +81,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
