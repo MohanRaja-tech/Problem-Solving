@@ -50,6 +50,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
@@ -92,6 +93,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
