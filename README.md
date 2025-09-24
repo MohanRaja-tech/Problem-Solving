@@ -51,6 +51,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
@@ -100,6 +101,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
@@ -112,4 +114,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
