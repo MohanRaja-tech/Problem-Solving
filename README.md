@@ -50,6 +50,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
@@ -84,11 +85,13 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -104,6 +107,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
