@@ -56,6 +56,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0046-permutations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
@@ -86,6 +87,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
@@ -147,4 +149,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
