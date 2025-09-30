@@ -70,6 +70,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,4 +154,13 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
