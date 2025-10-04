@@ -50,6 +50,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0040-combination-sum-ii) |
@@ -175,4 +176,12 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
