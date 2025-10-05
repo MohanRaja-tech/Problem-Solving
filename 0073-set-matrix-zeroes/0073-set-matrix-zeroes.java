@@ -1,36 +1,34 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        Map<Integer,List<List<Integer>>> map = new HashMap<>();
+        List<List<Integer>> lst = new ArrayList<>();
         int m = matrix.length;
         int n = matrix[0].length;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(matrix[i][j] == 0){
-                    List<Integer> temp1 = new ArrayList<>();
-                    temp1.add(i);
-                    temp1.add(j);
-                    if(!map.containsKey(matrix[i][j])){
-                        map.put(matrix[i][j],new ArrayList<>());
-                        map.get(matrix[i][j]).add(temp1);
-                    }
-                    else{
-                        map.get(matrix[i][j]).add(temp1);
-                    }
+                    List<Integer> temp = new ArrayList<>();
+                    temp.add(i);
+                    temp.add(j);
+                    lst.add(temp);
+                
                 }
             }
         }
-      for(List<List<Integer>> coordinates : map.values()){
-            for(List<Integer> lst : coordinates){
-                int row = lst.get(0);
-                int col = lst.get(1);
-                for(int  i=0;i<n;i++){
-                    matrix[row][i] = 0;
-                }
-                for(int j=0;j<m;j++){
-                    matrix[j][col] = 0;
-                }
+       
+        while(!lst.isEmpty()){
+            List<Integer> temp = lst.get(0);
+            ;lst.remove(0);
+            int row = temp.get(0);
+            int col = temp.get(1);
+            // Row zeroes
+            for(int i=0;i<n;i++){
+                matrix[row][i] = 0;
             }
-      }
-        
+            // Col Zeroes
+            for(int i=0;i<m;i++){
+                matrix[i][col] = 0;
+            }
+        }
+
     }
 }
