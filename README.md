@@ -142,6 +142,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -150,6 +151,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -179,6 +181,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -186,6 +189,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
