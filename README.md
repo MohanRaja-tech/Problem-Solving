@@ -146,6 +146,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0110-balanced-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +196,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0110-balanced-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
