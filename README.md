@@ -82,6 +82,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
@@ -144,6 +145,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
@@ -187,6 +189,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -198,6 +201,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
