@@ -72,6 +72,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +141,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +228,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Linked List
 |  |
 | ------- |
