@@ -183,6 +183,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0048-rotate-image) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
@@ -236,5 +237,10 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
