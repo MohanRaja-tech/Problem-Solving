@@ -232,6 +232,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Linked List
