@@ -239,6 +239,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Linked List
@@ -250,4 +251,9 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
