@@ -184,16 +184,19 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0048-rotate-image) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -242,6 +245,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -256,4 +260,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
