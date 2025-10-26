@@ -75,6 +75,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Prefix Sum
 |  |
@@ -185,6 +187,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -276,4 +279,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
