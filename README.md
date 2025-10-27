@@ -61,6 +61,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
@@ -195,6 +196,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0066-plus-one) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
