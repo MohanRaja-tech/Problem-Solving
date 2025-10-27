@@ -250,6 +250,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0006-zigzag-conversion](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
+| [1205-defanging-an-ip-address](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
