@@ -72,6 +72,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -118,6 +119,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0238-product-of-array-except-self](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
