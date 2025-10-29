@@ -145,6 +145,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +205,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
