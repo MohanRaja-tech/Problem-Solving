@@ -68,6 +68,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -249,6 +250,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0283-move-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
