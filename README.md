@@ -115,6 +115,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -159,6 +160,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
@@ -283,6 +285,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1205-defanging-an-ip-address](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -326,6 +329,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
