@@ -85,6 +85,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -225,6 +226,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -314,6 +316,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
