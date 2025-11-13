@@ -289,6 +289,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0318-maximum-product-of-word-lengths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0551-student-attendance-record-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [1205-defanging-an-ip-address](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
