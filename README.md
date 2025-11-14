@@ -82,6 +82,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
