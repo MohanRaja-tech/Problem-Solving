@@ -295,6 +295,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0657-robot-return-to-origin](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [1205-defanging-an-ip-address](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1714-rearrange-spaces-between-words](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1714-rearrange-spaces-between-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
