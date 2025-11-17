@@ -78,6 +78,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -121,6 +122,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
@@ -294,6 +296,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0551-student-attendance-record-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0657-robot-return-to-origin) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -326,6 +329,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Counting
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
