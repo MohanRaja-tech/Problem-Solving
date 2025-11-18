@@ -309,12 +309,14 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 ## Stack
