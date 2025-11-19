@@ -278,6 +278,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -310,6 +311,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
