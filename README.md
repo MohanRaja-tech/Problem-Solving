@@ -120,6 +120,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -279,6 +280,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -314,6 +316,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
