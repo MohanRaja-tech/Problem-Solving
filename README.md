@@ -281,6 +281,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0042-trapping-rain-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -317,18 +318,21 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0092-reverse-linked-list-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 ## Number Theory
 |  |
