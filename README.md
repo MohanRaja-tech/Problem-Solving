@@ -189,6 +189,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -325,6 +326,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0206-reverse-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -372,4 +374,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
