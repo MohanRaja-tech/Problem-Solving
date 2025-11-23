@@ -236,6 +236,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -329,6 +330,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0328-odd-even-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -346,6 +348,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0234-palindrome-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
