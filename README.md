@@ -51,6 +51,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0040-combination-sum-ii) |
@@ -112,6 +113,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
@@ -120,6 +122,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
