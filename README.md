@@ -79,6 +79,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
@@ -164,6 +165,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
