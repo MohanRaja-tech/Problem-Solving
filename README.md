@@ -80,6 +80,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
@@ -180,6 +181,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Depth-First Search
 |  |
@@ -308,6 +310,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0011-container-with-most-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 ## String
 |  |
 | ------- |
@@ -361,6 +364,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0234-palindrome-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
 |  |
@@ -393,6 +397,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 ## Doubly-Linked List
 |  |
 | ------- |
