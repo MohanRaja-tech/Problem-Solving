@@ -186,6 +186,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -260,6 +261,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -278,6 +280,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -392,6 +395,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Monotonic Stack
 |  |
