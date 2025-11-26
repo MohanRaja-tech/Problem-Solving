@@ -202,6 +202,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -283,6 +284,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0199-binary-tree-right-side-view](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -305,6 +307,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0199-binary-tree-right-side-view](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -409,6 +412,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
