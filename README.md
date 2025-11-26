@@ -98,6 +98,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
@@ -169,6 +170,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -279,6 +281,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0113-path-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
@@ -300,6 +303,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0113-path-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
