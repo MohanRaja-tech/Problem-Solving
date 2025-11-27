@@ -15,9 +15,9 @@
  */
 class Pair{
     TreeNode node;
-    long min;
-    long max;
-    Pair(TreeNode node,long min,long max){
+    Long min;
+    Long max;
+    Pair(TreeNode node,Long min,Long max){
         this.node = node;
         this.min = min;
         this.max = max;
@@ -29,13 +29,13 @@ class Solution {
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(root,Long.MIN_VALUE,Long.MAX_VALUE));
         while(!q.isEmpty()){
-            Pair current = q.poll();
-            TreeNode node = current.node;
-            Long min = current.min;
-            Long max = current.max;
+            Pair p = q.poll();
+            TreeNode node = p.node;
+            Long max = p.max;
+            Long min = p.min;
             if(node.val <= min || node.val >= max) return false;
-            if(node.left != null) q.offer(new Pair(node.left,min,node.val));
-            if(node.right != null) q.offer(new Pair(node.right,node.val,max));
+            if(node.left != null) q.offer(new Pair(node.left,min,(long)node.val));
+            if(node.right != null) q.offer(new Pair(node.right,(long)node.val,max));
         }
         return true;
     }
