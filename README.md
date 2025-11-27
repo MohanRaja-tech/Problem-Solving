@@ -216,6 +216,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -307,6 +309,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,6 +339,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
