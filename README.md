@@ -132,6 +132,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -186,6 +187,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0047-permutations-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Depth-First Search
 |  |
@@ -211,6 +213,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -230,6 +233,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0513-find-bottom-left-tree-value](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Graph
 |  |
@@ -299,6 +303,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -326,6 +331,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
