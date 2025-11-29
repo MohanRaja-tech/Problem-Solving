@@ -66,6 +66,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0066-plus-one](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0200-number-of-islands) |
@@ -123,6 +124,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0200-number-of-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
@@ -166,6 +168,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0052-n-queens-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0216-combination-sum-iii) |
@@ -196,6 +199,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0101-symmetric-tree) |
@@ -375,6 +379,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0006-zigzag-conversion) |
+| [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
