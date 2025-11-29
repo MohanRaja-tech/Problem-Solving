@@ -79,6 +79,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
@@ -126,6 +127,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0073-set-matrix-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0543-diameter-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -248,6 +251,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -478,5 +482,6 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
