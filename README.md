@@ -327,6 +327,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [3360-stone-removal-game](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3360-stone-removal-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
