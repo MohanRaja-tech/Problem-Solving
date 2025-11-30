@@ -200,6 +200,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +314,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -430,6 +432,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1714-rearrange-spaces-between-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
