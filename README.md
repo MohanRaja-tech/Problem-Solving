@@ -322,6 +322,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2591-distribute-money-to-maximum-children](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2591-distribute-money-to-maximum-children) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -490,6 +491,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
 | ------- |
