@@ -210,6 +210,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2578-split-with-minimum-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2578-split-with-minimum-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2269-find-the-k-beauty-of-a-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2578-split-with-minimum-sum) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -412,6 +414,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2578-split-with-minimum-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2578-split-with-minimum-sum) |
 ## String
 |  |
 | ------- |
