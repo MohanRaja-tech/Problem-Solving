@@ -90,6 +90,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -287,6 +288,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0657-robot-return-to-origin) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
@@ -303,6 +305,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0492-construct-the-rectangle](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0492-construct-the-rectangle) |
 | [1175-prime-arrangements](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1175-prime-arrangements) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
