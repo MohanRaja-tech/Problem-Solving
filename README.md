@@ -105,6 +105,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
@@ -296,6 +297,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0002-add-two-numbers](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0066-plus-one) |
+| [0441-arranging-coins](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
