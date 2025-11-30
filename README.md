@@ -89,6 +89,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1319-unique-number-of-occurrences](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -301,6 +302,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0445-add-two-numbers-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0492-construct-the-rectangle) |
 | [1175-prime-arrangements](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1175-prime-arrangements) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
@@ -508,4 +510,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
