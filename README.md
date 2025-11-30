@@ -116,6 +116,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0213-house-robber-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1130-last-stone-weight-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1130-last-stone-weight-ii) |
 ## Matrix
 |  |
@@ -160,6 +161,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
 ## Backtracking
 |  |
@@ -232,6 +234,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -259,6 +262,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -270,6 +274,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0133-clone-graph](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -495,4 +500,8 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0200-number-of-islands](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
