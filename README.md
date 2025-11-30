@@ -319,6 +319,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2578-split-with-minimum-sum) |
+| [2591-distribute-money-to-maximum-children](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2591-distribute-money-to-maximum-children) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -415,6 +416,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2578-split-with-minimum-sum) |
+| [2591-distribute-money-to-maximum-children](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2591-distribute-money-to-maximum-children) |
 ## String
 |  |
 | ------- |
