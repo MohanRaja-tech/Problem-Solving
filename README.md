@@ -208,6 +208,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -407,6 +409,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0055-jump-game](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
 | ------- |
