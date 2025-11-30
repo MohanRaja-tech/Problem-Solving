@@ -300,6 +300,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0441-arranging-coins](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0492-construct-the-rectangle) |
+| [1175-prime-arrangements](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1175-prime-arrangements) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2288-count-operations-to-obtain-zero) |
