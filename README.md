@@ -84,6 +84,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0994-rotting-oranges](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1127-last-stone-weight) |
@@ -128,6 +129,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0079-word-search](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
@@ -257,6 +259,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
