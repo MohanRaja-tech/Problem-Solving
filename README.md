@@ -103,6 +103,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3606-coupon-code-validator) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [2169-simple-bank-system](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +213,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2578-split-with-minimum-sum) |
+| [3606-coupon-code-validator](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3606-coupon-code-validator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -442,6 +445,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [1714-rearrange-spaces-between-words](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1714-rearrange-spaces-between-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3606-coupon-code-validator](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
