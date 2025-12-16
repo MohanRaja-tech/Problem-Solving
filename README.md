@@ -84,6 +84,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0821-shortest-distance-to-a-character](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0994-rotting-oranges](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -418,6 +419,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0234-palindrome-linked-list](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0821-shortest-distance-to-a-character](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
@@ -443,6 +445,7 @@ LinkedIn: www.linkedin.com/in/mohanraja-tech
 | [0551-student-attendance-record-i](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0657-robot-return-to-origin) |
+| [0821-shortest-distance-to-a-character](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohanRaja-tech/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
